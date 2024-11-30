@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Employess from "./[employess]/page";
 import Electronic from "./electronics/page";
 
